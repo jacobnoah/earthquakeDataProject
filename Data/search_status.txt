@@ -1,0 +1,60 @@
+Earthquake Entry: 
+
+Time: February 25 2019 17:02:20			Latitude: 59.8492
+Longitude: -153.3586				Depth: 126.6
+Magnitude: 3.2					Magnitude Type: ml
+Number of Seismic Stations Used: 0		Gap: 0.0
+Distance from Nearest Station: 0.0		Root-Mean-Square: 0.61
+Data Contributer: ak				Id: ak0192kw89yn
+Last Updated: February 26 2019 04:58:15		Place: "78km SSW of Redoubt Volcano, Alaska"
+Type: earthquake				Horizontal Error: 0.0
+Depth Error: 0.4				Magnitude Error: 0.0
+Magnitude Source: ak				Horizontal Error: 0.0
+Seismic Stations Used for Magnitude: 0		Status: automatic
+Location Source: ak				Magnitude Source: ak
+-------------------------------------------------------------------
+Earthquake Entry: 
+
+Time: February 17 2019 19:33:28			Latitude: 61.5959
+Longitude: -151.6459				Depth: 249.9
+Magnitude: 2.0					Magnitude Type: ml
+Number of Seismic Stations Used: 0		Gap: 0.0
+Distance from Nearest Station: 0.0		Root-Mean-Square: 0.95
+Data Contributer: ak				Id: ak01927pb12a
+Last Updated: February 17 2019 19:36:43		Place: "86km W of Willow, Alaska"
+Type: earthquake				Horizontal Error: 0.0
+Depth Error: 6.5				Magnitude Error: 0.0
+Magnitude Source: ak				Horizontal Error: 0.0
+Seismic Stations Used for Magnitude: 0		Status: automatic
+Location Source: ak				Magnitude Source: ak
+-------------------------------------------------------------------
+Earthquake Entry: 
+
+Time: February 18 2019 19:18:56			Latitude: 19.4081669
+Longitude: -155.2825012				Depth: 0.33
+Magnitude: 1.73					Magnitude Type: ml
+Number of Seismic Stations Used: 20		Gap: 62.0
+Distance from Nearest Station: 0.009565		Root-Mean-Square: 0.11
+Data Contributer: hv				Id: hv70816646
+Last Updated: February 18 2019 19:24:39		Place: "5km WSW of Volcano, Hawaii"
+Type: earthquake				Horizontal Error: 0.14
+Depth Error: 0.2				Magnitude Error: 0.32
+Magnitude Source: hv				Horizontal Error: 0.14
+Seismic Stations Used for Magnitude: 10		Status: automatic
+Location Source: hv				Magnitude Source: hv
+-------------------------------------------------------------------
+Earthquake Entry: 
+
+Time: February 11 2019 04:54:27			Latitude: 62.4597
+Longitude: -151.3093				Depth: 75.9
+Magnitude: 1.5					Magnitude Type: ml
+Number of Seismic Stations Used: 0		Gap: 0.0
+Distance from Nearest Station: 0.0		Root-Mean-Square: 0.7
+Data Contributer: ak				Id: ak0191xj9xxw
+Last Updated: February 11 2019 04:59:20		Place: "63km WNW of Talkeetna, Alaska"
+Type: earthquake				Horizontal Error: 0.0
+Depth Error: 0.8				Magnitude Error: 0.0
+Magnitude Source: ak				Horizontal Error: 0.0
+Seismic Stations Used for Magnitude: 0		Status: automatic
+Location Source: ak				Magnitude Source: ak
+-------------------------------------------------------------------

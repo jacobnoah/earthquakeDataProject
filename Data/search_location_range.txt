@@ -1,0 +1,15 @@
+Earthquake Entry: 
+
+Time: March 04 2019 22:28:10			Latitude: 42.5477
+Longitude: 86.801				Depth: 10.0
+Magnitude: 4.5					Magnitude Type: mb
+Number of Seismic Stations Used: 0		Gap: 132.0
+Distance from Nearest Station: 5.325		Root-Mean-Square: 0.67
+Data Contributer: us				Id: us1000jajz
+Last Updated: March 04 2019 23:21:30		Place: "57km NNE of Yanqi, China"
+Type: earthquake				Horizontal Error: 7.9
+Depth Error: 1.8				Magnitude Error: 0.079
+Magnitude Source: us				Horizontal Error: 7.9
+Seismic Stations Used for Magnitude: 47		Status: reviewed
+Location Source: us				Magnitude Source: us
+-------------------------------------------------------------------

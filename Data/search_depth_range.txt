@@ -1,0 +1,120 @@
+Earthquake Entry: 
+
+Time: February 18 2019 19:18:56			Latitude: 19.4081669
+Longitude: -155.2825012				Depth: 0.33
+Magnitude: 1.73					Magnitude Type: ml
+Number of Seismic Stations Used: 20		Gap: 62.0
+Distance from Nearest Station: 0.009565		Root-Mean-Square: 0.11
+Data Contributer: hv				Id: hv70816646
+Last Updated: February 18 2019 19:24:39		Place: "5km WSW of Volcano, Hawaii"
+Type: earthquake				Horizontal Error: 0.14
+Depth Error: 0.2				Magnitude Error: 0.32
+Magnitude Source: hv				Horizontal Error: 0.14
+Seismic Stations Used for Magnitude: 10		Status: automatic
+Location Source: hv				Magnitude Source: hv
+-------------------------------------------------------------------
+Earthquake Entry: 
+
+Time: February 12 2019 17:01:46			Latitude: 38.8378333
+Longitude: -111.3933333				Depth: 1.67
+Magnitude: 1.23					Magnitude Type: ml
+Number of Seismic Stations Used: 11		Gap: 106.0
+Distance from Nearest Station: 0.06242		Root-Mean-Square: 0.16
+Data Contributer: uu				Id: uu60312147
+Last Updated: February 12 2019 19:23:02		Place: "36km SW of Ferron, Utah"
+Type: earthquake				Horizontal Error: 0.5
+Depth Error: 31.61				Magnitude Error: 0.542
+Magnitude Source: uu				Horizontal Error: 0.5
+Seismic Stations Used for Magnitude: 2		Status: reviewed
+Location Source: uu				Magnitude Source: uu
+-------------------------------------------------------------------
+Earthquake Entry: 
+
+Time: February 17 2019 19:56:46			Latitude: 35.9655
+Longitude: -120.5158333				Depth: 1.93
+Magnitude: 0.13					Magnitude Type: md
+Number of Seismic Stations Used: 16		Gap: 62.0
+Distance from Nearest Station: 0.01459		Root-Mean-Square: 0.03
+Data Contributer: nc				Id: nc73143206
+Last Updated: February 20 2019 09:52:04		Place: "11km NW of Parkfield, CA"
+Type: earthquake				Horizontal Error: 0.2
+Depth Error: 0.34				Magnitude Error: 0.031
+Magnitude Source: nc				Horizontal Error: 0.2
+Seismic Stations Used for Magnitude: 3		Status: reviewed
+Location Source: nc				Magnitude Source: nc
+-------------------------------------------------------------------
+Earthquake Entry: 
+
+Time: February 25 2019 16:58:53			Latitude: 36.0865
+Longitude: -117.6156667				Depth: 2.0
+Magnitude: 1.52					Magnitude Type: ml
+Number of Seismic Stations Used: 29		Gap: 34.0
+Distance from Nearest Station: 0.1065		Root-Mean-Square: 0.13
+Data Contributer: ci				Id: ci38473064
+Last Updated: February 25 2019 22:52:48		Place: "30km E of Coso Junction, CA"
+Type: earthquake				Horizontal Error: 0.16
+Depth Error: 0.33				Magnitude Error: 0.143
+Magnitude Source: ci				Horizontal Error: 0.16
+Seismic Stations Used for Magnitude: 19		Status: reviewed
+Location Source: ci				Magnitude Source: ci
+-------------------------------------------------------------------
+Earthquake Entry: 
+
+Time: March 02 2019 15:41:05			Latitude: 33.478
+Longitude: -116.7963333				Depth: 4.37
+Magnitude: 0.54					Magnitude Type: ml
+Number of Seismic Stations Used: 26		Gap: 71.0
+Distance from Nearest Station: 0.03444		Root-Mean-Square: 0.17
+Data Contributer: ci				Id: ci38481160
+Last Updated: March 04 2019 15:55:38		Place: "8km ENE of Aguanga, CA"
+Type: earthquake				Horizontal Error: 0.19
+Depth Error: 0.42				Magnitude Error: 0.064
+Magnitude Source: ci				Horizontal Error: 0.19
+Seismic Stations Used for Magnitude: 12		Status: reviewed
+Location Source: ci				Magnitude Source: ci
+-------------------------------------------------------------------
+Earthquake Entry: 
+
+Time: February 25 2019 17:03:42			Latitude: 35.9331667
+Longitude: -120.4806667				Depth: 4.54
+Magnitude: 0.83					Magnitude Type: md
+Number of Seismic Stations Used: 28		Gap: 109.0
+Distance from Nearest Station: 0.01534		Root-Mean-Square: 0.05
+Data Contributer: nc				Id: nc73145646
+Last Updated: February 26 2019 22:49:02		Place: "6km NW of Parkfield, CA"
+Type: earthquake				Horizontal Error: 0.21
+Depth Error: 0.36				Magnitude Error: 0.203
+Magnitude Source: nc				Horizontal Error: 0.21
+Seismic Stations Used for Magnitude: 11		Status: reviewed
+Location Source: nc				Magnitude Source: nc
+-------------------------------------------------------------------
+Earthquake Entry: 
+
+Time: February 05 2019 17:48:00			Latitude: 37.6376667
+Longitude: -118.9301667				Depth: 4.69
+Magnitude: 0.89					Magnitude Type: md
+Number of Seismic Stations Used: 17		Gap: 75.0
+Distance from Nearest Station: 0.02589		Root-Mean-Square: 0.04
+Data Contributer: nc				Id: nc73138410
+Last Updated: February 05 2019 19:14:03		Place: "4km E of Mammoth Lakes, CA"
+Type: earthquake				Horizontal Error: 0.34
+Depth Error: 0.55				Magnitude Error: 0.422
+Magnitude Source: nc				Horizontal Error: 0.34
+Seismic Stations Used for Magnitude: 15		Status: reviewed
+Location Source: nc				Magnitude Source: nc
+-------------------------------------------------------------------
+Earthquake Entry: 
+
+Time: February 11 2019 04:54:33			Latitude: 35.2625
+Longitude: -97.8475				Depth: 5.0
+Magnitude: 2.2					Magnitude Type: mb_lg
+Number of Seismic Stations Used: 0		Gap: 68.0
+Distance from Nearest Station: 0.173		Root-Mean-Square: 0.77
+Data Contributer: us				Id: us2000jg75
+Last Updated: March 06 2019 05:37:22		Place: "4km SW of Tuttle, Oklahoma"
+Type: earthquake				Horizontal Error: 1.1
+Depth Error: 1.8				Magnitude Error: 0.208
+Magnitude Source: us				Horizontal Error: 1.1
+Seismic Stations Used for Magnitude: 6		Status: reviewed
+Location Source: us				Magnitude Source: us
+-------------------------------------------------------------------

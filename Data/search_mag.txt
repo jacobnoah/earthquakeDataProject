@@ -1,0 +1,15 @@
+Earthquake Entry: 
+
+Time: February 05 2019 17:48:00			Latitude: 37.6376667
+Longitude: -118.9301667				Depth: 4.69
+Magnitude: 0.89					Magnitude Type: md
+Number of Seismic Stations Used: 17		Gap: 75.0
+Distance from Nearest Station: 0.02589		Root-Mean-Square: 0.04
+Data Contributer: nc				Id: nc73138410
+Last Updated: February 05 2019 19:14:03		Place: "4km E of Mammoth Lakes, CA"
+Type: earthquake				Horizontal Error: 0.34
+Depth Error: 0.55				Magnitude Error: 0.422
+Magnitude Source: nc				Horizontal Error: 0.34
+Seismic Stations Used for Magnitude: 15		Status: reviewed
+Location Source: nc				Magnitude Source: nc
+-------------------------------------------------------------------

@@ -1,0 +1,30 @@
+﻿time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2019-02-05T17:48:00.460Z,37.6376667,-118.9301667,4.69,0.89,md,17,75,0.02589,0.04,nc,nc73138410,2019-02-05T19:14:03.749Z,"4km E of Mammoth Lakes, CA",earthquake,0.34,0.55,0.422,15,reviewed,nc,nc
+2019-02-08T04:53:18.873Z,61.7884,-149.651,40.4,1.1,ml,,,,0.5,ak,ak0191sknnzb,2019-02-23T02:11:18.295Z,"18km N of Meadow Lakes, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2019-02-08T19:17:52.790Z,39.7183333,-111.1453333,6.06,1.44,ml,14,140,0.09018,0.19,uu,uu60017269,2019-02-08T21:16:33.250Z,"25km W of Helper, Utah",earthquake,0.92,1.66,0.154,3,reviewed,uu,uu
+2019-02-08T22:03:23.970Z,17.9403,-66.7966,9,1.67,md,3,221,0.2493,0.14,pr,pr2019039017,2019-02-09T02:18:45.839Z,"6km SSE of Indios, Puerto Rico",earthquake,2.83,11.24,0.01,3,reviewed,pr,pr
+2019-02-10T17:03:45.505Z,66.2964,-157.1609,16.5,1.1,ml,,,,0.54,ak,ak0191w36c6u,2019-03-01T01:38:43.672Z,"69km S of Kobuk, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2019-02-12T17:01:46.160Z,38.8378333,-111.3933333,1.67,1.23,ml,11,106,0.06242,0.16,uu,uu60312147,2019-02-12T19:23:02.830Z,"36km SW of Ferron, Utah",earthquake,0.5,31.61,0.542,2,reviewed,uu,uu
+2019-03-04T22:28:10.950Z,42.5477,86.801,10,4.5,mb,,132,5.325,0.67,us,us1000jajz,2019-03-04T23:21:30.040Z,"57km NNE of Yanqi, China",earthquake,7.9,1.8,0.079,47,reviewed,us,us
+2019-03-01T19:48:18.360Z,17.9091,-66.04,13,1.2,md,6,250,0.0874,0.08,pr,pr2019060008,2019-03-01T23:27:53.224Z,"6km SSE of Arroyo, Puerto Rico",earthquake,0.62,0.3,0.42,5,reviewed,pr,pr
+2019-03-01T19:47:56.940Z,53.9737,170.573,25.94,4.2,mb,,149,7.177,0.68,us,us1000j9ht,2019-03-05T19:31:42.040Z,"214km NW of Attu Station, Alaska",earthquake,8,6.4,0.058,84,reviewed,us,us
+2019-02-13T18:25:22.357Z,66.3092,-157.1915,6,3,ml,,,,0.6,ak,ak019212ih8n,2019-03-01T00:39:50.057Z,"68km SSW of Kobuk, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2019-02-13T18:25:06.286Z,63.3112,-150.9662,15.5,0.5,ml,,,,0.66,ak,ak019212ifpu,2019-03-01T00:39:49.258Z,"101km W of Cantwell, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2019-02-25T17:03:42.760Z,35.9331667,-120.4806667,4.54,0.83,md,28,109,0.01534,0.05,nc,nc73145646,2019-02-26T22:49:02.781Z,"6km NW of Parkfield, CA",earthquake,0.21,0.36,0.203,11,reviewed,nc,nc
+2019-02-25T17:02:20.834Z,59.8492,-153.3586,126.6,3.2,ml,,,,0.61,ak,ak0192kw89yn,2019-02-26T04:58:15.805Z,"78km SSW of Redoubt Volcano, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2019-02-25T16:58:53.960Z,36.0865,-117.6156667,2,1.52,ml,29,34,0.1065,0.13,ci,ci38473064,2019-02-25T22:52:48.460Z,"30km E of Coso Junction, CA",earthquake,0.16,0.33,0.143,19,reviewed,ci,ci
+2019-02-17T20:02:31.409Z,38.3314,-118.1133,6.9,0.9,ml,5,273.56,0.107,0.1321,nn,nn00678082,2019-02-20T00:38:55.059Z,"49km ESE of Hawthorne, Nevada",earthquake,,4,0,1,reviewed,nn,nn
+2019-02-17T19:56:46.410Z,35.9655,-120.5158333,1.93,0.13,md,16,62,0.01459,0.03,nc,nc73143206,2019-02-20T09:52:04.404Z,"11km NW of Parkfield, CA",earthquake,0.2,0.34,0.031,3,reviewed,nc,nc
+2019-02-17T19:33:28.987Z,61.5959,-151.6459,249.9,2,ml,,,,0.95,ak,ak01927pb12a,2019-02-17T19:36:43.121Z,"86km W of Willow, Alaska",earthquake,,6.5,,,automatic,ak,ak
+2019-02-17T19:22:27.430Z,-20.3387,-177.7004,539.58,4.8,mb,,130,4.774,0.84,us,us2000jjav,2019-02-17T19:38:42.040Z,"109km ENE of Ndoi Island, Fiji",earthquake,11.7,7.5,0.114,24,reviewed,us,us
+2019-03-02T15:41:05.560Z,33.478,-116.7963333,4.37,0.54,ml,26,71,0.03444,0.17,ci,ci38481160,2019-03-04T15:55:38.623Z,"8km ENE of Aguanga, CA",earthquake,0.19,0.42,0.064,12,reviewed,ci,ci
+2019-02-18T19:29:18.480Z,33.3036667,-116.8575,11.55,0.77,ml,23,71,0.05,0.14,ci,ci37534130,2019-02-20T00:36:21.453Z,"6km S of Palomar Observatory, CA",earthquake,0.2,0.44,0.084,13,reviewed,ci,ci
+2019-02-18T19:19:40.457Z,61.0378,-151.9652,81.7,1.7,ml,,,,0.59,ak,ak01929creba,2019-03-06T23:20:14.609Z,"53km NW of Nikiski, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2019-02-18T19:18:56.090Z,19.4081669,-155.2825012,0.33,1.73,ml,20,62,0.009565,0.11,hv,hv70816646,2019-02-18T19:24:39.600Z,"5km WSW of Volcano, Hawaii",earthquake,0.14,0.2,0.32,10,automatic,hv,hv
+2019-02-11T04:58:03.771Z,38.729,-119.7034,7.1,1.2,ml,17,80.62,0.18,0.2091,nn,nn00677474,2019-02-12T02:04:47.779Z,"17km S of Gardnerville Ranchos, Nevada",earthquake,,2.2,0.4,8,reviewed,nn,nn
+2019-02-11T04:54:33.940Z,35.2625,-97.8475,5,2.2,mb_lg,,68,0.173,0.77,us,us2000jg75,2019-03-06T05:37:22.143Z,"4km SW of Tuttle, Oklahoma",earthquake,1.1,1.8,0.208,6,reviewed,us,us
+2019-02-11T04:54:27.348Z,62.4597,-151.3093,75.9,1.5,ml,,,,0.7,ak,ak0191xj9xxw,2019-02-11T04:59:20.368Z,"63km WNW of Talkeetna, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2019-02-11T04:50:12.390Z,38.7426667,-119.7158333,-1.22,2.59,md,42,102,0.2608,0.14,nc,nc73140670,2019-02-12T14:35:16.307Z,"9km NE of Markleeville, CA",earthquake,0.25,1.53,0.281,47,reviewed,nc,nc
+2019-02-26T00:38:34.250Z,49.35133333,-120.583,-0.86,2.17,ml,12,172,,0.66,uw,uw61512591,2019-02-27T17:17:48.340Z,"12km SSW of Princeton, Canada",explosion,3.89,31.61,0.077231067,9,reviewed,uw,uw
+2019-02-26T00:37:40.890Z,36.2346667,-120.8148333,6.36,1.39,md,30,90,0.0217,0.1,nc,nc73145746,2019-02-27T03:05:04.271Z,"22km ENE of San Lucas, CA",earthquake,0.52,0.36,0.186,19,reviewed,nc,nc
+2019-02-26T00:30:35.620Z,35.467,-115.5365,-1.06,2.39,ml,18,73,0.02203,0.14,ci,ci38473952,2019-02-26T14:09:14.417Z,"21km SW of Primm, NV",quarry blast,0.26,31.61,0.15,45,reviewed,ci,ci

@@ -1,0 +1,105 @@
+Earthquake Entry: 
+
+Time: February 05 2019 17:48:00			Latitude: 37.6376667
+Longitude: -118.9301667				Depth: 4.69
+Magnitude: 0.89					Magnitude Type: md
+Number of Seismic Stations Used: 17		Gap: 75.0
+Distance from Nearest Station: 0.02589		Root-Mean-Square: 0.04
+Data Contributer: nc				Id: nc73138410
+Last Updated: February 05 2019 19:14:03		Place: "4km E of Mammoth Lakes, CA"
+Type: earthquake				Horizontal Error: 0.34
+Depth Error: 0.55				Magnitude Error: 0.422
+Magnitude Source: nc				Horizontal Error: 0.34
+Seismic Stations Used for Magnitude: 15		Status: reviewed
+Location Source: nc				Magnitude Source: nc
+-------------------------------------------------------------------
+Earthquake Entry: 
+
+Time: February 08 2019 22:03:23			Latitude: 17.9403
+Longitude: -66.7966				Depth: 9.0
+Magnitude: 1.67					Magnitude Type: md
+Number of Seismic Stations Used: 3		Gap: 221.0
+Distance from Nearest Station: 0.2493		Root-Mean-Square: 0.14
+Data Contributer: pr				Id: pr2019039017
+Last Updated: February 09 2019 02:18:45		Place: "6km SSE of Indios, Puerto Rico"
+Type: earthquake				Horizontal Error: 2.83
+Depth Error: 11.24				Magnitude Error: 0.01
+Magnitude Source: pr				Horizontal Error: 2.83
+Seismic Stations Used for Magnitude: 3		Status: reviewed
+Location Source: pr				Magnitude Source: pr
+-------------------------------------------------------------------
+Earthquake Entry: 
+
+Time: March 01 2019 19:48:18			Latitude: 17.9091
+Longitude: -66.04				Depth: 13.0
+Magnitude: 1.2					Magnitude Type: md
+Number of Seismic Stations Used: 6		Gap: 250.0
+Distance from Nearest Station: 0.0874		Root-Mean-Square: 0.08
+Data Contributer: pr				Id: pr2019060008
+Last Updated: March 01 2019 23:27:53		Place: "6km SSE of Arroyo, Puerto Rico"
+Type: earthquake				Horizontal Error: 0.62
+Depth Error: 0.3				Magnitude Error: 0.42
+Magnitude Source: pr				Horizontal Error: 0.62
+Seismic Stations Used for Magnitude: 5		Status: reviewed
+Location Source: pr				Magnitude Source: pr
+-------------------------------------------------------------------
+Earthquake Entry: 
+
+Time: February 25 2019 17:03:42			Latitude: 35.9331667
+Longitude: -120.4806667				Depth: 4.54
+Magnitude: 0.83					Magnitude Type: md
+Number of Seismic Stations Used: 28		Gap: 109.0
+Distance from Nearest Station: 0.01534		Root-Mean-Square: 0.05
+Data Contributer: nc				Id: nc73145646
+Last Updated: February 26 2019 22:49:02		Place: "6km NW of Parkfield, CA"
+Type: earthquake				Horizontal Error: 0.21
+Depth Error: 0.36				Magnitude Error: 0.203
+Magnitude Source: nc				Horizontal Error: 0.21
+Seismic Stations Used for Magnitude: 11		Status: reviewed
+Location Source: nc				Magnitude Source: nc
+-------------------------------------------------------------------
+Earthquake Entry: 
+
+Time: February 17 2019 19:56:46			Latitude: 35.9655
+Longitude: -120.5158333				Depth: 1.93
+Magnitude: 0.13					Magnitude Type: md
+Number of Seismic Stations Used: 16		Gap: 62.0
+Distance from Nearest Station: 0.01459		Root-Mean-Square: 0.03
+Data Contributer: nc				Id: nc73143206
+Last Updated: February 20 2019 09:52:04		Place: "11km NW of Parkfield, CA"
+Type: earthquake				Horizontal Error: 0.2
+Depth Error: 0.34				Magnitude Error: 0.031
+Magnitude Source: nc				Horizontal Error: 0.2
+Seismic Stations Used for Magnitude: 3		Status: reviewed
+Location Source: nc				Magnitude Source: nc
+-------------------------------------------------------------------
+Earthquake Entry: 
+
+Time: February 11 2019 04:50:12			Latitude: 38.7426667
+Longitude: -119.7158333				Depth: -1.22
+Magnitude: 2.59					Magnitude Type: md
+Number of Seismic Stations Used: 42		Gap: 102.0
+Distance from Nearest Station: 0.2608		Root-Mean-Square: 0.14
+Data Contributer: nc				Id: nc73140670
+Last Updated: February 12 2019 14:35:16		Place: "9km NE of Markleeville, CA"
+Type: earthquake				Horizontal Error: 0.25
+Depth Error: 1.53				Magnitude Error: 0.281
+Magnitude Source: nc				Horizontal Error: 0.25
+Seismic Stations Used for Magnitude: 47		Status: reviewed
+Location Source: nc				Magnitude Source: nc
+-------------------------------------------------------------------
+Earthquake Entry: 
+
+Time: February 26 2019 00:37:40			Latitude: 36.2346667
+Longitude: -120.8148333				Depth: 6.36
+Magnitude: 1.39					Magnitude Type: md
+Number of Seismic Stations Used: 30		Gap: 90.0
+Distance from Nearest Station: 0.0217		Root-Mean-Square: 0.1
+Data Contributer: nc				Id: nc73145746
+Last Updated: February 27 2019 03:05:04		Place: "22km ENE of San Lucas, CA"
+Type: earthquake				Horizontal Error: 0.52
+Depth Error: 0.36				Magnitude Error: 0.186
+Magnitude Source: nc				Horizontal Error: 0.52
+Seismic Stations Used for Magnitude: 19		Status: reviewed
+Location Source: nc				Magnitude Source: nc
+-------------------------------------------------------------------
